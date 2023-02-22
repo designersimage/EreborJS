@@ -1,0 +1,24 @@
+{
+  "name": "ereborjs",
+  "version": "0.0.1",
+  "description": "A web application framework for NodeJS.",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/designersimage/ereborjs.git"
+  },
+  "keywords": [
+    "web-application",
+    "framework"
+  ],
+  "author": "Jonathan Wheeler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/designersimage/ereborjs/issues"
+  },
+  "homepage": "https://github.com/designersimage/ereborjs#readme"
+}
